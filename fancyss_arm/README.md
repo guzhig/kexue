@@ -7,7 +7,7 @@
 4.0.3及以后的版本是接着koolshare开发组更新的最后一个版本基础上开始，在单独的项目（fancyss）内维护，不会有以上的问题。
 
 # 机型/固件支持
-### [fancyss_arm](https://github.com/hq450/fancyss/tree/master/fancyss_arm)
+### [fancyss_arm](https://github.com/guzhig/lycjym/tree/master/fancyss_arm)
 **fancyss_arm**离线安装包仅适用于merlin koolshare arm架构机型改版固件（arm架构，linux内核版本：2.6.36.4，，bcm470X系列cpu）
 
 **fancyss_arm**支持机型（需刷梅林koolshare改版固件）：
@@ -22,7 +22,7 @@
 * *RT-AC66U*和*RT-N66U*也不能使用fancyss_arm！因为这两款机器的是mipsel架构，请使用fancyss_mipsel！
 
 # 源码
-查看源码请前往：[https://github.com/hq450/fancyss](https://github.com/hq450/fancyss)
+查看源码请前往：[https://github.com/guzhig/lycjym](https://github.com/hq450/fancyss)
 
 # 更新日志
-https://github.com/hq450/fancyss/blob/master/fancyss_arm/Changelog.txt
+https://github.com/guzhig/lycjym/blob/master/fancyss_arm/Changelog.txt
