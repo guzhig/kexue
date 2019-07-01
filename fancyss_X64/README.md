@@ -12,7 +12,7 @@
  - brook：最后版本号：0.3
 
 # koolss源码
-查看源码请前往：[https://github.com/hq450/fancyss](https://github.com/hq450/fancyss)
+查看源码请前往：[https://github.com/guzhig/lycjym](https://github.com/guzhig/lycjym)
 
 # koolss更新日志
-https://github.com/hq450/fancyss/blob/master/fancyss_X64/Changelog.txt
+https://github.com/guzhig/lycjym/blob/master/fancyss_X64/Changelog.txt
