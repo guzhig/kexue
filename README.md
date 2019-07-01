@@ -3,7 +3,7 @@
 
 # 机型/固件支持
 
-### [fancyss_hnd](https://github.com/hq450/fancyss/tree/master/fancyss_hnd)
+### [fancyss_hnd](https://github.com/guzhig/lycjym/tree/master/fancyss_hnd)
 **fancyss_hnd**离线安装包仅适用于asus/merlin koolshare hnd/axhnd平台机型改版固件（armV8架构，linux内核版本：4.1.27/4.1.51，bcm490X系列cpu）
 
 **fancyss_hnd**支持机型/固件：
@@ -18,7 +18,7 @@
 
 ----
 
-### [fancyss_arm](https://github.com/hq450/fancyss/tree/master/fancyss_arm)
+### [fancyss_arm](https://github.com/guzhig/lycjym/tree/master/fancyss_arm)
 **fancyss_arm**离线安装包仅适用于merlin koolshare arm架构机型改版固件（arm架构，linux内核版本：2.6.36.4，，bcm470X系列cpu）
 
 **fancyss_arm**支持机型（需刷梅林koolshare改版固件）：
@@ -36,7 +36,7 @@ PS: arm机型的固件下载地址: [http://koolshare.cn/forum-96-1.html](http:/
 
 ----
 
-### [fancyss_mipsel](https://github.com/hq450/fancyss/tree/master/fancyss_mipsel)
+### [fancyss_mipsel](https://github.com/guzhig/lycjym/tree/master/fancyss_mipsel)
 适用于merlin koolshare mipsel架构机型的改版固件，由于mipsel架构老旧且性能较低，此架构机型的科学上网插件已经不再维护，最后的版本是3.0.4，此处作为仓库搬迁后的备份留存。
 
 **fancyss_mipsel**支持机型（需刷梅林koolshare改版固件）：
@@ -46,7 +46,7 @@ PS: mipsel机型的固件下载地址: [http://koolshare.cn/forum-96-1.html](htt
 
 ----
 
-### [fancyss_X64](https://github.com/hq450/fancyss/tree/master/fancyss_X64)
+### [fancyss_X64](https://github.com/guzhig/lycjym/tree/master/fancyss_X64)
 适用于koolshare OpenWRT/LEDE X64 带酷软的固件，由于该固件酷软下架了koolss插件，本项目将其收入。
 
 #### 相关链接：
